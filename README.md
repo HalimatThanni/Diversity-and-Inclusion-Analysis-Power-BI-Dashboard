@@ -49,48 +49,36 @@ In the step, what I did was handle missing values, checked for duplicates and an
 ## Exploratory Data Analysis (EDA)
 Using Power BI, I analyzed key gender-diversity metrics:
 
-
+<img width="1000" height="500" alt="Diversity and Inclusion" src="https://github.com/user-attachments/assets/d011c27d-79e2-4b47-918e-057545f42df3" />
 
 1. Hiring Statistics
-Executive and Director roles were predominantly filled by men (86–88%).
-
-Entry-level roles like Junior Officer had more balanced or female-leaning hires.
+- Executive and Director roles were predominantly filled by men (86–88%).
+- Entry-level roles like Junior Officer had more balanced or female-leaning hires.
 
 2. Promotions
-52.1% of all promotions in FY21 were awarded to women.
-
-Women were promoted more at the Junior Officer and Senior Officer levels.
+- 52.1% of all promotions in FY21 were awarded to women.
+- Women were promoted more at the Junior Officer and Senior Officer levels.
 
 3. Hired Women
-The percentage of hired women increased progressively from Executive to Junior roles.
-
-Junior Officer roles had the highest number and percentage of female hires (47%).
+- The percentage of hired women increased progressively from Executive to Junior roles.
+- Junior Officer roles had the highest number and percentage of female hires (47%).
 
 4. Attrition & Turnover
-47 employees left the company during FY21.
+- 47 employees left the company during FY21.
+- Turnover rate among men was higher (59%) than among women (41%).
+- Women showed a slightly higher average performance rating before exit compared to men.
 
-Turnover rate among men was higher (59%) than among women (41%).
-
-Women showed a slightly higher average performance rating before exit compared to men.
-
-5. Performance Ratings
-The difference in performance between leavers and stayers:
-
-Female employees: 0.11-point drop when leaving
-
-Male employees: 0.09-point drop when leaving
-
-6. Time in Grade Before Promotion
-Women generally spent more time in grade before getting promoted.
-
-Junior Officers had a promotion cycle averaging ~3.2 years.
 
 ## Results & Key Findings
 
 🔹 Leadership roles remain male-dominated, especially at the Executive and Director levels.
+
 🔹 Women receive more promotions than men overall, but mainly in junior roles.
+
 🔹 Attrition among women is lower, potentially signaling greater retention efforts or stronger inclusion at lower levels.
+
 🔹 There’s a performance dip trend before leaving, especially for women.
+
 🔹 The organization is making efforts toward gender inclusion at lower levels but may need to focus on senior-level diversity.
 
 
